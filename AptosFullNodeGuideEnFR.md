@@ -73,7 +73,7 @@ Comment installer un FullNode pour Aptos
 
 Félicitations, vous y êtes parvenu !
 
-**Codes intéressant à noter quelque part : **
+**Codes intéressant à noter quelque part :**
 
 **Pour checker le statut sync**
 
