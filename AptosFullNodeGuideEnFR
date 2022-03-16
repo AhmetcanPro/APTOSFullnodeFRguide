@@ -2,10 +2,10 @@
 Guide français afin de mettre en place votre node pour Aptos. Guide originale (en anglais) : https://github.com/aykutarda/aykutarda/blob/main/APTOSFullNodeGuide.md
 Traduit par : Huseyin#2669 / Translated in French by : Huseyin#2669
 
-# AptosFullNode-Guide en Français
+## AptosFullNode-Guide en Français
 Comment installer un FullNode pour Aptos
 
-## <a name='Contenu'></a>İçerik
+## <a name='Contenu'></a>Contenu
 
 * [1. Les Requis](#1-les requis)
 * [2. L'installation étape par étape](#2-l'installation-étape-par-étape)
