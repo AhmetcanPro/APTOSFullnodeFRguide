@@ -79,6 +79,6 @@ Félicitations, vous y êtes parvenu !
 
 ```curl 127.0.0.1:9101/metrics 2> /dev/null | grep aptos_state_sync_version | grep type```
 
-**Pour accéder au logs : **
+**Pour accéder au logs :**
 
 ```docker logs -f aptos-fullnode-1 --tail 5000```
