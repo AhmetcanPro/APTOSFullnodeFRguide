@@ -7,7 +7,7 @@ Comment installer un FullNode pour Aptos
 
 ## <a name='Contenu'></a>Contenu
 
-* [1. Les Requis](#1-les requis)
+* [1. Les Requis](#1-les-requis)
 * [2. L'installation étape par étape](#2-l'installation-étape-par-étape)
 
 ## 1. Les Requis
