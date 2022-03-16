@@ -17,7 +17,7 @@ Comment installer un FullNode pour Aptos
 **CPU**: 2 cores
 **Mémoire**: 4GB de RAM
 
-*Si vous lancez un Fullnode à des fins de production, nous vous recommandons d'avoir au minimum:**
+**Si vous lancez un Fullnode à des fins de production, nous vous recommandons d'avoir au minimum:**
 
 **CPU**: Intel Xeon Skylake ou un modèle plus récent, 4 cores
 **Mémoire**: 8GB de RAM
